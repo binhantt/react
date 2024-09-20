@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import '../index.css'
 const Use = () =>{
     return (
+        
         <Navar />
     )
 }

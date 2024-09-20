@@ -6,7 +6,7 @@ import draw2 from '../../assets/draw2.png';
 const HeaderLogin = () => {
     return (
         <div className=" bg-gray-100 flex flex-col justify-center flex sm:px-6 lg:px-8">
-            <div className='flex justify-center items-center space-y-7'>
+            <div className='flex justify-center items-center '>
                 <div className='hidden md:block '> 
                     <img src={draw2} alt="" />
                 </div>
